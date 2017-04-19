@@ -1,0 +1,3 @@
+com/restapi/models/Curso.class
+com/restapi/controllers/CursoResource.class
+com/restapi/main/Main.class
